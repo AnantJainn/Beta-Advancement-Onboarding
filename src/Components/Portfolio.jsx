@@ -31,27 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Algosage",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "In this project which is a web3 based backtesting engine, Algosage. We try to backtest the investment strategies based on historical data and provide real time monitoring of investments.",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "DogPreds",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      ": This project aims to classify dog breeds using deep learning with TensorFlow and a convolutional neural network (CNN). It was trained on Stanford Dogs Dataset which contains 20,580 images of 120 breeds of dogs.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Fake News Detection",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "A project that focuses on Fake News Detection, employing advanced algorithms to analyze textual data and identify misleading information, contributing to the fight against misinformation and promoting media literacy.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "SkyHi",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "It is a NFT based game where people can buy, collect and flex NFT in AR and GeoTag. The project involves utilization of various technologies like flutter, Truffle, hardhat, solidity and various other.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
