@@ -27,11 +27,11 @@ const siteProps = {
   name: "Anant Jain",
   title: "Full-Stack Blockchain Developer",
   email: "Anant.Jain@studentambassadors.com",
-  gitHub: "https://github.com/AnantJainn",
+  gitHub: "AnantJainn",
   instagram: "microsoft",
-  linkedIn: "https://www.linkedin.com/in/anant-jain-bb49b9205",
-  medium: "https://medium.com/@anantjainn",
-  twitter: "https://twitter.com/AnantJain09",
+  linkedIn: "anant-jain-bb49b9205",
+  medium: "@anantjainn",
+  twitter: "AnantJain09",
   youTube: "Code",
 };
 
